@@ -1,4 +1,4 @@
-# 🧑‍💻 Seba Santana
+# 🧑🏽‍💻 Seba Santana
 
 **`Cybersecurity · Operating Systems · Automation`**
 
