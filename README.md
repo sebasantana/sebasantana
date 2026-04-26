@@ -7,6 +7,16 @@ I work in cybersecurity and ethical hacking, with over two decades of hands-on e
 This GitHub is my personal workspace —  
 a place to document tooling, experiments, and notes focused on *how systems actually behave*.
 
+Public repositories here are intentionally sanitized.  
+I use them to share checklists, small tools, and technical notes without exposing client data, private infrastructure, or sensitive operational details.
+
+---
+
+## 🔭 Current Work
+
+- [homelab-hardening-checklists](https://github.com/sebasantana/homelab-hardening-checklists) — practical hardening checklists for homelabs, self-hosted services, and small infrastructure.
+- Small automation tools and notebooks focused on repeatable operations, validation, and failure modes.
+
 ---
 
 ## 🧭 Focus Areas
@@ -93,7 +103,9 @@ That’s intentional.
 
 ## 📓 Notes
 
-This is not a portfolio.  
+This is not a portfolio in the usual sense.  
 It’s a working notebook shaped by years of practice.
+
+I prefer publishing material that is useful, reproducible, and safe to share over polished but empty showcases.
 
 ---
